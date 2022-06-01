@@ -1,5 +1,5 @@
 ![bio-pic](bio-pic.png)
 
-Stefan has been a software developer, teacher and consultant for over a decade.
+Stefan is a _Senior Service Delivery Engineer_ on the [GitHub Expert Services](https://services.github.com) team at GitHub where his focus lies in helping customers with their technical and cultural transformation.
 
-On the [Professional Services](https://services.github.com) team at GitHub his focus lies in helping companies with their digital transformation, both technical and cultural.
+Stefan has been a software engineer, teacher and consultant since 2008.
