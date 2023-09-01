@@ -18,6 +18,6 @@ jobs:
     steps:
       - name: combine-prs
         id: combine-prs
-        uses: github/combine-prs@8e631fc3eb9337039c61b2b89219bf2a2259a4d6
+        uses: github/combine-prs@e2dee3c2a03a8f9a0ecd82fb53cb852cdc7a2fb3
         with:
           pr_title: 🤖 Combined Dependabot PRs
